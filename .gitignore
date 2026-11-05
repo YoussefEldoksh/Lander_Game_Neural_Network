@@ -27,7 +27,6 @@ hs_err_pid*
 out
 
 # data files
-*.csv
 *.xml
 *.xlsx
 *.iml
